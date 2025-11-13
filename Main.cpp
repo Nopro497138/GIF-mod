@@ -10,8 +10,7 @@ using namespace geode::prelude;
 
 // GIFs aus dem GitHub Repository
 std::vector<std::string> gifs = {
-    "gif1.gif",
-    "gif2.gif"
+    "black_man_cry.gif",
 };
 
 // Diese Funktion lädt die GIFs von GitHub
