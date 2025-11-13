@@ -1,0 +1,9 @@
+{
+  "geode": "v4.9.0",
+  "id": "com.geometrydash.gifmod",
+  "name": "GIF mod",
+  "version": "1.0.0",
+  "gd": { "win": "2.206" },
+  "icon": "resources/logo.png",
+  "description": "This mod allows you to send and view GIFs in Geometry Dash comments. The GIFs are loaded from a GitHub repository."
+}
